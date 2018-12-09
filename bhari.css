@@ -1,0 +1,93 @@
+
+body{ 
+    background-color: black;
+}
+
+p{
+    color: blue;
+}
+
+#dh{
+    color: black;
+    text-align: "center";
+}
+
+.test{
+    color: darkred;
+    font-size: 22px;
+
+}
+
+#out{
+    color: fuchsia;
+    font-size: 30px;
+}
+
+img{
+    height: 300px;
+}
+
+#pic{
+    height: 100px;
+    width:200px;
+}
+
+.menu{
+    color: yellow;
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.word{
+    text-align: center;
+    color: white;
+}
+
+.section-title{
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+    text-align: center;
+    font-weight: 500;
+
+}
+.row{
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+    text-align: center;
+    font-weight: 500;
+}
+.container-promises{
+    border: 5px solid black;
+    background-color: orangered;
+}
+
+.xtremecat{
+    position: relative;
+  text-align: center;
+  color: white;
+  float: left;
+  padding: 10px;
+  width: 20%;
+ }
+ 
+  /* Bottom left text */
+ .xtreme{
+    display: inline-block;
+    position: absolute;
+    bottom: 30px;
+    left: 48px;
+    font-size: 30px;
+ 
+ }
+
+ .pics{
+     height: 250px;
+     width: 250px;
+ }
+
+ .home{
+     text-align: center;
+ }
